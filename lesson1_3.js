@@ -49,6 +49,8 @@ const maxNumer = students.reduce(function (obj1, obj2){
 
 console.log(maxNumer)
 console.log(maxNumer)
+console.log(+null)//0
+console.log(+'34')//34
 
 
 
